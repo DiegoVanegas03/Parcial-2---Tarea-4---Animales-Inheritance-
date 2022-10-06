@@ -1,4 +1,8 @@
 package oop.parcial.animales;
 
-public class Ha  lcon extends Ave{
+public class Halcon extends Ave{
+    @Override
+    public String toString(){
+        return "Halcon";
+    }
 }
